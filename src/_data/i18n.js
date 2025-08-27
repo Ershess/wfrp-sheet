@@ -93,6 +93,12 @@ export default {
         ru: "Карлик",
         pl: "Gnom",
       },
+      skink: {
+	fr: "Scinque",
+	en: "Skink",
+	ru: "Скинк",
+	pl: "Skink",
+      },
     },
     class: {
       fr: "Classe",
